@@ -1,0 +1,5 @@
+AlphabetWarGame.java
+This program simulates a game where characters from the left and right sides compete based on assigned strength values. It calculates scores for each side based on character occurrence and determines the winner. The game allows for custom strength values and includes methods to evaluate results for a single word or two separate words representing each side.
+
+CreditCardValidator.java
+This program validates an 8- or 9-digit credit card number using a variation of the Luhn algorithm. It calculates a check digit by transforming the digits and comparing it to the last digit of the number. The program confirms if the number is valid or invalid and provides immediate feedback based on the calculated result.
